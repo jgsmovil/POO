@@ -14,6 +14,7 @@ public class GitHubb {
      */
     public static void main(String[] args) {
         System.out.println("Hola mi nombre es:  Juana Garcia Seañez");
+        System.out.println("Docente:TEC 2");
     }
     
 }
